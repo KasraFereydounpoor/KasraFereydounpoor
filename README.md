@@ -51,12 +51,9 @@
 
 ###
 
-<img align="right" height="200" src="https://4kwallpapers.com/images/wallpapers/python-logo-purple-2880x1800-16084.jpg"  />
-
-###
-
 <div align="center">
-  <img height="180" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2jNm6Y6bltnZFGA4TL9RKNuAiF0JHCHSSYQ&s"  />
+  <img src="https://streak-stats.demolab.com?user=KasraFereydounpoor&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KasraFereydounpoor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=true&custom_title=KasraFnp" height="150" alt="languages graph"  />
 </div>
 
 ###
