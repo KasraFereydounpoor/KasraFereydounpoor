@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasrafereydounpoor&label=Profile%20views&color=0e75b6&style=flat" alt="kasrafereydounpoor" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasrafereydounpoor" alt="kasrafereydounpoor" /></a> </p>
 
 - Article author about python & django on [https://farkiantech.com/](https://farkiantech.com/)
 
@@ -27,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasrafereydounpoor&show_icons=true&locale=en" alt="kasrafereydounpoor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasrafereydounpoor&" alt="kasrafereydounpoor" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasrafereydounpoor" alt="kasrafereydounpoor" /></a> </p>
