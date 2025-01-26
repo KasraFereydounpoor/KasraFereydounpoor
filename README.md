@@ -1,6 +1,6 @@
 <h1 align="center">Hi there this is KasraFereydounpoor</h1>
-<h3 align="center">Backend Developer / Django</h3>
-
+<h3 align="center">Backend Developer / Django   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
+ </h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasrafereydounpoor&label=Profile%20views&color=0e75b6&style=flat" alt="kasrafereydounpoor" /> </p>
 
 
@@ -11,7 +11,7 @@
 
 - Gmail: **fnpkasra@gmail.com**
 
-<h3 align="left">other connections :</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kasra-fereydounpoor-9489582b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kasra-fereydounpoor-9489582b0/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23507685/kasrafnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23507685/kasrafnp" height="30" width="40" /></a>
