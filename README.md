@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kasra-fereydounpoor-9489582b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kasra-fereydounpoor-9489582b0/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23507685/kasrafnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23507685/kasrafnp" height="30" width="40" /></a>
 </p>
-<a href="[https://stackoverflow.com/users/https://stackoverflow.com/users/23507685/kasrafnp](https://leetcode.com/u/KasraFereydounpoor/)" target="blank"><img align="center" type="image/png" sizes="32x32" rel="icon" href=".../icons8-level up your coding skills and quickly land a job-external-tal-revivo-color-tal-revivo-32.png" height="30" width="40" /></a>
+<a href="[https://stackoverflow.com/users/https://stackoverflow.com/users/23507685/kasrafnp](https://leetcode.com/u/KasraFereydounpoor/)" target="blank"><img align="center" type="image/png" sizes="32x32" rel="icon" src=".../icons8-level up your coding skills and quickly land a job-external-tal-revivo-color-tal-revivo-32.png" /></a>
 </p>
 
 
